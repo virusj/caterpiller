@@ -4,6 +4,7 @@ Created on Sat Mar  6 15:55:18 2021
 
 @author: musaw
 """
+#virus added this to github
 import turtle as t
 import random
 
@@ -15,6 +16,7 @@ caterpillar.color("white")
 caterpillar.speed(0)
 caterpillar.penup()
 caterpillar.hideturtle()
+
 
 #create leaf turtle
 leaf = t.Turtle()
